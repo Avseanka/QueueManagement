@@ -1,0 +1,42 @@
+0.0   Threadul 0 a fost pornit...
+0.0   Threadul 1 a fost pornit...
+0.0   Threadul 2 a fost pornit...
+0.0:   Un cient cu tipul de deservire :8  a ajuns la casa: 0
+0.0:   Un cient cu tipul de deservire :7  a ajuns la casa: 1
+0.0:   Un cient cu tipul de deservire :7  a ajuns la casa: 2
+0.0:   Un cient cu tipul de deservire :8  a ajuns la casa: 1
+0.0:   Un cient cu tipul de deservire :9  a ajuns la casa: 2
+0.0:   Un cient cu tipul de deservire :9  a ajuns la casa: 0
+0.0:   Un cient cu tipul de deservire :5  a ajuns la casa: 1
+0.0:   Un cient cu tipul de deservire :5  a ajuns la casa: 2
+0.0:   Un cient cu tipul de deservire :5  a ajuns la casa: 0
+0.0:   Un cient cu tipul de deservire :7  a ajuns la casa: 1
+0.0:   Un cient cu tipul de deservire :6  a ajuns la casa: 2
+0.0:   Un cient cu tipul de deservire :7  a ajuns la casa: 0
+0.0:   Un cient cu tipul de deservire :9  a ajuns la casa: 1
+0.0   Simularea a fost initializata...
+3.0:   Un cient cu tipul de deservire :8  a ajuns la casa: 2
+7.0:   Clientul a fost deservit si a parasit coada 1
+7.0:   Clientul a fost deservit si a parasit coada 2
+8.0:   Clientul a fost deservit si a parasit coada 0
+12.0:   Un cient cu tipul de deservire :6  a ajuns la casa: 0
+15.0:   Clientul a fost deservit si a parasit coada 1
+16.0:   Clientul a fost deservit si a parasit coada 2
+17.0:   Clientul a fost deservit si a parasit coada 0
+20.0:   Clientul a fost deservit si a parasit coada 1
+21.0:   Clientul a fost deservit si a parasit coada 2
+21.0   Threadul 3 a fost pornit...
+21.0:   Un cient cu tipul de deservire :8  a ajuns la casa: 1
+22.0:   Clientul a fost deservit si a parasit coada 0
+27.0:   Clientul a fost deservit si a parasit coada 1
+27.0:   Clientul a fost deservit si a parasit coada 2
+29.0:   Clientul a fost deservit si a parasit coada 0
+30.0:   Clientul a fost deservit si a parasit coada 3
+35.0:   Clientul a fost deservit si a parasit coada 0
+35.0:   Clientul a fost deservit si a parasit coada 2
+35.0:   Clientul a fost deservit si a parasit coada 1
+38.0   Simularea a fost oprita...
+38.0   Threadul 0 a fost oprit...
+38.0   Threadul 1 a fost oprit...
+38.0   Threadul 2 a fost oprit...
+38.0   Threadul 3 a fost oprit...
